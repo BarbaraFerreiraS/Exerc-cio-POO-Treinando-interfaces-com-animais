@@ -1,0 +1,15 @@
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.csproj.AssemblyReference.cache
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.AssemblyInfoInputs.cache
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.AssemblyInfo.cs
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\bin\Debug\net6.0\ExercicioPoo3.exe
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\bin\Debug\net6.0\ExercicioPoo3.deps.json
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\bin\Debug\net6.0\ExercicioPoo3.runtimeconfig.json
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\bin\Debug\net6.0\ExercicioPoo3.dll
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\bin\Debug\net6.0\ExercicioPoo3.pdb
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.dll
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\refint\ExercicioPoo3.dll
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.pdb
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ExercicioPoo3.genruntimeconfig.cache
+C:\Users\Bárbara Ferreira\source\repos\ExercicioPoo3\ExercicioPoo3\obj\Debug\net6.0\ref\ExercicioPoo3.dll
